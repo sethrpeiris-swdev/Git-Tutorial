@@ -1,12 +1,10 @@
 # Git-Tutorial
 
-Welcome on and all to my git tutorial!
-If this is not being done live or you liked to read the instructions please click [here](/instructions.md)
+Welcome one and all to my git tutorial!
 
-## Your Name Here
+To complete the tutorial you need vscode and git installed, see [here](/setup.md) to setup
+<br>To read the instructions, please click [here](/instructions.md)
 
-- Your sentence here
+First fun fact about yourself:
 
-## Partner Name Here
-
-- Your sentence here
+Second fun fact about yourself:

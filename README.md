@@ -1,12 +1,8 @@
 # Git-Tutorial
 
 Welcome one and all to my git tutorial!
-To read the instructions please click [here](/instructions.md)
+To read the instructions, please click [here](/instructions.md)
 
-## Your Name Here
+First fun fact about yourself:
 
-- Your sentence here
-
-## Partner Name Here
-
-- Your sentence here
+Second fun fact about yourself:
